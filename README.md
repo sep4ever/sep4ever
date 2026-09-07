@@ -1,16 +1,24 @@
-## Hi there 👋
+<img width="3840" height="1240" alt="image" src="https://github.com/user-attachments/assets/50609b4f-3d17-4165-bee0-102f5220a643" />
 
-<!--
-**sep4ever/sep4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm SEP4EVER. A C# programmer with around 2 years of experience.
+I make games, prototypes and tools for fun!
+
+I tend to work in *team*, cooperating with artists, compositors and game-designers.
+
+Coding is my ***passion***!
+### My experience
+- Rogue-like procedural generation
+- 2D and 3D Unity games
+- Team management
+- Own code refactoring
+- Commercial commisions
+
+### Jams I participated in
+- GMTK 2025
+- GMTK 2026
+- Maxter's Jam
+
+#### [My released games](https://sep4ever.itch.io)
