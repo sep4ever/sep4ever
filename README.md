@@ -22,4 +22,4 @@ Coding is my ***passion***!
 
 
 ### Links
-#### [My released games](https://sep4ever.itch.io)
+- #### [My released games](https://sep4ever.itch.io)
