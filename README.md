@@ -1,8 +1,9 @@
 <img width="3840" height="1240" alt="image" src="https://github.com/user-attachments/assets/50609b4f-3d17-4165-bee0-102f5220a643" />
 
 
-# Hi there! 
+# Hi there!
 
+### About
 I'm SEP4EVER. A C# programmer with around 2 years of experience.
 I make games, prototypes and tools for fun!
 
