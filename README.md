@@ -17,8 +17,9 @@ Coding is my ***passion***!
 - Commercial commisions
 
 ### Jams I participated in
-- GMTK 2025
 - GMTK 2026
 - Maxter's Jam
 
+
+### Links
 #### [My released games](https://sep4ever.itch.io)
